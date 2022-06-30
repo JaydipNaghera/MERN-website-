@@ -1,0 +1,6 @@
+stripe seceret key 
+sk_test_51Ko1zESDgbhTyiLtYKyYg1AKx6qpfG54rnXNlpkFptbsB3xd7dO2e9mZzCwdJsg4moC3Om0DtEET2HguT8kWXT6s00YCR93oxX
+
+
+stripe publish key
+pk_test_51Ko1zESDgbhTyiLt8q9daejUyc17BLSpXooITl0SsyakGLieaieUNOhlZw9RmfMtXk8ZjhLd6MqE7iJTLfaUSpWE00RdoMO8VY
